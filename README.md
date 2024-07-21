@@ -1,10 +1,10 @@
-# Nome: Eduardo Cristiano Franco
+# Name: Akiyama Haru
 
-## O que é Esteganografia?  :eyes:
-- Esteganografia é o conceito de esconder informações/arquivos (textos, imagens, documentos e músicas) dentro de outros arquivos, sem que a outra pessoa consiga ver. É imperceptível a olho nu.
-## Casos que usaram a Esteganografia: :open_file_folder::warning:
-- Hackers estão usando este meio de esteganografia para esconder malwares dentro de “memes” no Twitter. Uma vez que você abre o meme, ele insere um malware para roubar e coletar suas informações mais valiosas, e depois eles transferem os dados para um servidor de comando e controle.
+## What is Steganography?  :eyes:
+- Steganography is the concept of hiding information/files (text, images, documents and music) inside other files, without the other person being able to see it. It is imperceptible to the naked eye..
+## Cases that used Steganography: :open_file_folder::warning:
+- Hackers are using this form of steganography to hide malware inside “memes” on Twitter. Once you open the meme, it inserts malware to steal and collect your most valuable information, and then they transfer the data to a command and control server.
 
-# Projeto :books::computer:
-- O projeto foi realizado para a disciplica de Segurança da informação no 1º Ano do 2º semestre, com o professor Vilmar Abreu na PUC-PR.
-- Nas pastas "/in" e "/out" eu deixei um mini-tutorial para lhe ensinar como utilizar a Esteganografia.
+# Project :books::computer:
+- The project was carried out for the Information Security discipline in the 1st Year of the 2nd semester, with professor Vilmar Abreu at PUC-PR.
+- In the "/in" and "/out" folders I left a mini-tutorial to teach you how to use Steganography.
